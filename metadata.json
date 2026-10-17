@@ -1,0 +1,8 @@
+{
+  "name": "Remix Interaktif SMK - Media Pembelajaran Berbasis Game",
+  "description": "Aplikasi media pembelajaran interaktif berbasis game untuk siswa SMK dengan Mode Guru, AI Generator Soal, Arena Game Level Bertingkat, dan Sertifikat Digital Kelulusan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
